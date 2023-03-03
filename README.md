@@ -1,3 +1,3 @@
 # todolist2023
 
-Feito por Thales e Wagner
+Projeto feito por Everton Sousa e Thaylon Ramon
